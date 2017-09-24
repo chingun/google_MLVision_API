@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stoked-legend-180807",
+  "private_key_id": "34c40a2b12d9cc3a297385c20e05cf421a58cc4f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGN+ilIvKcsI9R\nj/wKUhNMlhyz+i2lt3TjOQENMBCxk4qgkYH9D78gRqNDKytE9LwFwOVF6jAd+GQ4\npsDLZknwmPEJ08DaD7738TVcw0tYGVtjE+ak+BmEhjdF4jrXRmNoCWyRaI+IHakY\nxjxb1q/Cze5Pw3yEf0flPZ1gwN2mtafI4qvl2OnB2ZLBsZi7XELGN2MSZbtwscXG\nFwzUraovF5vUhjJQih1pM30esLxOGbH3GYseAL4x7Q/0TyJcVZxCJnSGKSlyh2zf\nHX7iRL71HLhwrKdn9WGrKIXf1RcFsYeEmuuF50f3LmCrJaQWWZ6W3orwYrAbPXcx\nGz2vN0hNAgMBAAECggEADmpXfCxVT5Q+6rQZei4A4vjRypGptdu9356FgeOFJfJF\nyn/6iksVtRpeBORZUmZSsZUXN3qcwuPjH1makNBLaqN8zXWobf4SKdmmw1cdSMwY\noNUm2MgwTDqElOEAiCfBfU9I0C8LV99XAmBnAwN90cwvMNQrNJRFyBlZ3i+jObHr\nLj04khb5voK8/Enybc8IO4rrijYQLxJbSl1dRbbQjOh9FZ8iCh7QsbWF6zsONodf\nkmeubKsUbtbO3jnJaklrwbdfsIrtJL3eG3/xLowLv2Aq0ZB2fSJn5X1h73hyvqfa\n5ywVWUn2mBuiroe0Brg6roOQblYVqbJjk1eXd8Y5UwKBgQDu9F9z8K1PeDZT0EGj\ng7rkB8xvZjufmWNXlRN9pVaEBJv12Iwk1aYBO1kpZvksJZJX4XsBSQ4Jb2c7aQcx\nNErONC0s7sB1eD31N/F5oPMB/qhqm6GyAwwnksjBSw56VUQFZBma8i2D9ikyY9nr\n7mPFmJ0Nb/O2Gt5Ov8GxJ9bJawKBgQDUW6OgRHk3ZVFzpqWoeeCNDrDl83YnD0EN\n+0RNOz3tE3u2ILQ8hKEx6cnElq03t5OsYg5AHsr0LhqQux7/O+N8RVNpz3gU3W8i\n8o3R+ESNzs9/F2yxirZFQ5ICrhbfe7sjBQOp3LHHHY5IZoR9Zj5WUSEK0G15AY8+\nDKYbi0ULJwKBgD++qzQXsXQwwnVragc/3fx05CGXqTIzTiAQIcnz8Hd5b02PPhuZ\nbxaHCYsU8EXJpBeTjCfUoEz+DhD4PLXwmEAYBTEmY+syb3zaNq3WtN0EXVNLP0Bo\ntbZc3vdJmYwi8OlrQbVnA6NfaLALmRfqWW1eAA+UnPQoiMODPh2PXioPAoGBAKdH\nfLBd4AKkHDJ2/p2lTB6xiOXLD7KbEIrb+KTB2vkq1NPWFURq0bPIzvi+HLr8MCal\no0YdO5B31NNXo4Y4/ezBi4CZPqVo/QfRe6f/4ri2Rbt+j0+XzhbnsFfOHRR0mihu\n5cDjqWMJRDCCGTHS3Z4PEHE9WE7uzJB7VEn0PjIXAoGBAJnpReojfYiUmKDFa4lL\nHGK3ArOGr+MZ3yDymZMF38+O61Hv3EelxyNHv5240ijoNCSl7KJDcAvel/D8kkIT\n3eAnPt4CjPS5FyfeDjDqRzGW08cCdZ0aEj/9uXcGRtcNR5QwfZTXo5uJcEzS94zj\n6scLyuaSTLf3tcWNJ2GLH9xA\n-----END PRIVATE KEY-----\n",
+  "client_email": "learn-language-with-pics@stoked-legend-180807.iam.gserviceaccount.com",
+  "client_id": "105085694696945227353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/learn-language-with-pics%40stoked-legend-180807.iam.gserviceaccount.com"
+}
